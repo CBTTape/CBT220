@@ -1,0 +1,49 @@
+2023-04-02 22:45:10.793879 - Initialized conversion of CBT220
+2023-04-02 22:45:11.224975 - Received CBT.V504.FILE220.PDS from FILE220.XMI 
+2023-04-02 22:45:11.227712 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/$$$#DATE
+2023-04-02 22:45:11.228852 - Found $$$FB80.txt (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/$$$FB80
+2023-04-02 22:45:11.229872 - Found $$NOTE01.txt (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/$$NOTE01
+2023-04-02 22:45:11.231073 - Found $$NOTE02.txt (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/$$NOTE02
+2023-04-02 22:45:11.232099 - Found $$README.txt (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/$$README
+2023-04-02 22:45:11.233134 - Found $PDSLOAD.jcl (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/$PDSLOAD
+2023-04-02 22:45:11.234041 - Found #NUCLKUP.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/#NUCLKUP
+2023-04-02 22:45:11.235180 - Found @FILE220.txt (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/@FILE220
+2023-04-02 22:45:11.236280 - Found @FILE221.txt (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/@FILE221
+2023-04-02 22:45:11.236295 - Found ADVCAATS.bin containing application/octet-stream, moved to PDS/ADVCAATS
+2023-04-02 22:45:11.238780 - Found CLEAR.txt (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/CLEAR
+2023-04-02 22:45:11.239814 - Found CLEAR$.jcl (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/CLEAR$
+2023-04-02 22:45:11.240864 - Found LISTADSP.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/LISTADSP
+2023-04-02 22:45:11.241840 - Found LISTAPFT.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/LISTAPFT
+2023-04-02 22:45:11.242817 - Found LISTAPF2.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/LISTAPF2
+2023-04-02 22:45:11.243860 - Found LISTCATS.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/LISTCATS
+2023-04-02 22:45:11.244798 - Found LISTCONS.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/LISTCONS
+2023-04-02 22:45:11.245957 - Found LISTDASD.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/LISTDASD
+2023-04-02 22:45:11.246970 - Found LISTDCQ.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/LISTDCQ
+2023-04-02 22:45:11.248083 - Found LISTENV.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/LISTENV
+2023-04-02 22:45:11.249111 - Found LISTESRT.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/LISTESRT
+2023-04-02 22:45:11.250043 - Found LISTLLT.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/LISTLLT
+2023-04-02 22:45:11.251017 - Found LISTLPAQ.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/LISTLPAQ
+2023-04-02 22:45:11.252069 - Found LISTLPAT.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/LISTLPAT
+2023-04-02 22:45:11.253030 - Found LISTNUCM.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/LISTNUCM
+2023-04-02 22:45:11.253935 - Found LISTPART.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/LISTPART
+2023-04-02 22:45:11.254867 - Found LISTPAR2.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/LISTPAR2
+2023-04-02 22:45:11.255789 - Found LISTPDSD.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/LISTPDSD
+2023-04-02 22:45:11.256742 - Found LISTPDSM.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/LISTPDSM
+2023-04-02 22:45:11.257733 - Found LISTPLPA.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/LISTPLPA
+2023-04-02 22:45:11.258697 - Found LISTSFT.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/LISTSFT
+2023-04-02 22:45:11.259733 - Found LISTSMAP.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/LISTSMAP
+2023-04-02 22:45:11.260780 - Found LISTSMF.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/LISTSMF
+2023-04-02 22:45:11.261749 - Found LISTSSN.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/LISTSSN
+2023-04-02 22:45:11.262686 - Found LISTSVCJ.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/LISTSVCJ
+2023-04-02 22:45:11.263715 - Found LISTSVCT.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/LISTSVCT
+2023-04-02 22:45:11.264629 - Found LISTTAPE.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/LISTTAPE
+2023-04-02 22:45:11.265507 - Found MISC.txt (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/MISC
+2023-04-02 22:45:11.266386 - Found NOT@OR.txt (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/NOT@OR
+2023-04-02 22:45:11.272100 - Found PDSLOAD.xmi (application/xmit) in CBT.V504.FILE220.PDS
+2023-04-02 22:45:11.280524   - Received RECFM=U data, stored XMIT file as CBT220/PDSLOAD.xmi
+2023-04-02 22:45:11.281579 - Found REXXMEM.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/REXXMEM
+2023-04-02 22:45:11.282560 - Found SAS.txt (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/SAS
+2023-04-02 22:45:11.283772 - Found SDUMP.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/SDUMP
+2023-04-02 22:45:11.284995 - Found SDUMPE.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/SDUMPE
+2023-04-02 22:45:11.286079 - Found SDUMPG.rexx (text/plain) in CBT.V504.FILE220.PDS, moved to PDS/SDUMPG
+2023-04-02 22:45:11.286272 - No @FILExxx or @FILxxxx detected, creating README.md without extra info
